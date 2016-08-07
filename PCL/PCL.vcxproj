@@ -126,7 +126,7 @@
     <ClCompile Include="PCL.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Divide_surface.h" />
+    <ClInclude Include="Divide_Surface.h" />
     <ClInclude Include="PCL.h" />
     <ClInclude Include="PCLAdapter.h" />
   </ItemGroup>

@@ -32,7 +32,7 @@
     <ClInclude Include="PCL.h">
       <Filter>ヘッダー ファイル</Filter>
     </ClInclude>
-    <ClInclude Include="Divide_surface.h">
+    <ClInclude Include="Divide_Surface.h">
       <Filter>ヘッダー ファイル</Filter>
     </ClInclude>
   </ItemGroup>
